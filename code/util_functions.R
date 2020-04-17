@@ -1,5 +1,5 @@
 # Small script snipplets that can be brief
-# examples for programming or demonstrations
+# examples for programming or demonstrations  
 
 
 # Print Hello World
